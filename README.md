@@ -1,3 +1,6 @@
+![download](https://github.com/user-attachments/assets/e3daec7b-7c61-4b17-b9c5-f75fbfa86a84)
+
+
 **What the project does?** 
 - This is a simple rock, paper and scissors game.
 - you will work with random.choice(), if statements, and getting user input. This is a great project to help you build on the fundamentals like conditionals and functions.
